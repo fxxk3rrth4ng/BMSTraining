@@ -1,0 +1,23 @@
+{
+    "name": "B1NK",
+    "symbol": "*",
+    "data_url": "score.json",
+    "course": [
+        [
+            {
+                "name": "BMS Training Course",
+                "constraint" : ["grade_mirror", "gauge_lr2", "ln"],
+                "trophy": [
+                    { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+                    { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+                ],
+                "md5": [
+                    "3c5063ddcf8f76728c5d6dd290bdc269",
+                    "d783d45b7229daf47d4ce41d88faa3d4",
+                    "05fef74e224ca5fef6d69719fa4a6a87",
+                    "522ce11990d09b94e515b653705be4fd"
+                ]
+            }
+        ]
+    ]
+}

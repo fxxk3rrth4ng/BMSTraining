@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Nyan-Nyan Naughty Night [HYPER]",
+        "artist": "かたぎり",
+        "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=127&event=133",
+        "url_diff": "",
+        "md5": "3c5063ddcf8f76728c5d6dd290bdc269",
+        "sha256": "345f63c979f68aa65686034a18316c2576b5b2c0cb56fb25352d8c6b7fc2b5d7",
+        "level": "TRAINING",
+        "comment": "▽11 / sr11"
+    },
+    {
+        "title": "FREEDOM DiVE [HYPER 7]",
+        "artist": "xi",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50",
+        "url_diff": "",
+        "md5": "d783d45b7229daf47d4ce41d88faa3d4",
+        "sha256": "c10ed63fdec2a35a2a2f4710aa621f88ea17b73af139cae6e0f54dc8ce12eda8",
+        "level": "TRAINING",
+        "comment": "▽11+ / lx9 / sr?"
+    },
+    {
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=129&event=96",
+        "url_diff": "",
+        "md5": "05fef74e224ca5fef6d69719fa4a6a87",
+        "sha256": "d471559a9c1c259552c46892215946d53ca695a9ea51215ce4f1a838aa1e3b13",
+        "level": "TRAINING",
+        "comment": "sr12"
+    },
+    {
+        "title": "プナイプナイたいそう [SP ANOTHER]",
+        "artist": "立秋 feat.ちょこ",
+        "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
+        "url_diff": "",
+        "md5": "522ce11990d09b94e515b653705be4fd",
+        "sha256": "532a76cb5a42dfccb2fdabc06624c432dc930f1aa26a067e496818ae9d79dc36",
+        "level": "TRAINING",
+        "comment": "▽12- / sr12 / sl0"
+    }
+]
